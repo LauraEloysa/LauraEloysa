@@ -1,7 +1,7 @@
-<h2 align="left">Olá, meu nome é Laura!</h2>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=50&duration=4000&pause=1000&color=F73D9F&center=true&vCenter=true&random=false&width=1000&lines=Hello%2C+my+name+is+Laura;I'm+16+years+old;I'm+a+Student;I'm+from+Brazil;welcome%3A)](https://git.io/typing-svg)
 
 ###
-
+___
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=LauraEloysa&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LauraEloysa&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="[https://preview.redd.it/glyffr63wot71.gif?width=512&auto=webp&s=e9d752b30100e07bbed8e2b8dc6b90afdc501b03](https://i.makeagif.com/media/2-11-2024/7Zjkgz.gif)"  />
+<img align="right" height="150" src="./github.gif"  />
 
 ###
 
@@ -44,7 +44,7 @@
 <img src="https://raw.githubusercontent.com/LauraEloysa/LauraEloysa/output/snake.svg" alt="Snake animation" />
 
 ###
-
+___
 <div align="center">
   <img src="https://profile-counter.glitch.me/LauraEloysa/count.svg?"  />
 </div>
