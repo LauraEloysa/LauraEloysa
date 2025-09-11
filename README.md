@@ -10,6 +10,10 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LauraEloysa&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LauraEloysa&theme=dracula" alt="GitHub Streak" />
+</div>
+
 ###
 
 <img align="right" height="150" src="./github.gif"  />
@@ -53,9 +57,7 @@
 
 ###
 ___
-<div align="center">
-  <img src="https://profile-counter.glitch.me/LauraEloysa/count.svg?"  />
-</div>
+
 
 ###
 <img style="margin-top:10px" width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF69B4&height=120&section=footer"/>
