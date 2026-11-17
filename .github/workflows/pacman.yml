@@ -8,22 +8,27 @@ on:
 
 jobs:
   generate:
+    runs-on: ubuntu-latest
+
     permissions:
       contents: write
-
-    runs-on: ubuntu-latest
 
     steps:
       - name: Gerar Pac-Man
         uses: abozanona/pacman-contribution-graph@main
         with:
           github_user_name: LauraEloysa
-          games: "pacman"
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          games: pacman
 
-      - name: Verificar arquivos gerados
-        run: ls -lah dist/
+      - name: Conferir arquivos SVG
+        run: |
+          echo "Arquivos gerados:"
+          ls -lah dist/
+          test -s dist/pacman-contribution-graph.svg
+          test -s dist/pacman-contribution-graph-dark.svg
 
-      - name: Publicar Pac-Man
+      - name: Publicar na branch output
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
