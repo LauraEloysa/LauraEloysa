@@ -1,5 +1,4 @@
 
-<!-- CABEÇALHO -->
 <div align="center">
   <img
     width="100%"
@@ -8,7 +7,6 @@
   />
 </div>
 
-<!-- APRESENTAÇÃO -->
 <div align="center">
   <img
     src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=400&size=28&duration=4000&pause=1000&color=156B9A&center=true&vCenter=true&width=900&lines=Ol%C3%A1%2C+meu+nome+%C3%A9+Laura!;Tenho+17+anos;Sou+estudante+de+Inform%C3%A1tica;Sou+do+Brasil;Bem-vindo+ao+meu+perfil!"
@@ -18,7 +16,6 @@
 
 <br/>
 
-<!-- TECNOLOGIAS -->
 <div align="center">
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -33,7 +30,6 @@
 
 <br/>
 
-<!-- PROJETOS -->
 <h3>Projetos em destaque</h3>
 
 <br/>
@@ -56,12 +52,10 @@
 <br/>
 <br/>
 
-<!-- ESTATÍSTICAS -->
 <div align="center">
 
   <h2>Estatísticas do GitHub</h2>
 
-  
   <table>
     <tr>
       <td align="center">
@@ -81,13 +75,11 @@
     </tr>
   </table>
 
-
 </div>
 
 <br/>
 <br/>
 
-<!-- REDES SOCIAIS -->
 <h3>Entre em contato</h3>
 
 <div align="left">
@@ -121,7 +113,6 @@
 <br/>
 <br/>
 
-<!-- PAC-MAN -->
 <div align="center">
 
   <picture>
@@ -134,8 +125,9 @@
       srcset="https://raw.githubusercontent.com/LauraEloysa/LauraEloysa/output/pacman-contribution-graph.svg"
     />
     <img
-      alt="Pac-Man percorrendo minhas contribuições"
-      src="https://raw.githubusercontent.com/LauraEloysa/LauraEloysa/output/pacman-contribution-graph-dark.svg"
+      src="https://raw.githubusercontent.com/LauraEloysa/LauraEloysa/output/pacman-contribution-graph.svg"
+      alt="Pac-Man das contribuições"
+      width="100%"
     />
   </picture>
 
@@ -143,7 +135,6 @@
 
 <br/>
 
-<!-- RODAPÉ -->
 <div align="center">
   <img
     width="100%"
