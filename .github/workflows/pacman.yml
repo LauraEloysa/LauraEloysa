@@ -1,27 +1,29 @@
+
 name: Atualizar Pac-Man
 
 on:
   schedule:
-    - cron: '0 0 * * *'
+    - cron: "0 0 * * *"
   workflow_dispatch:
-  push:
-    branches:
-      - main
 
 jobs:
   generate:
-    runs-on: ubuntu-latest
     permissions:
       contents: write
-    timeout-minutes: 20
+
+    runs-on: ubuntu-latest
+
     steps:
-      - name: Gerar animações de contribuições
+      - name: Gerar Pac-Man
         uses: abozanona/pacman-contribution-graph@main
         with:
           github_user_name: LauraEloysa
-          games: 'pacman'
+          games: "pacman"
 
-      - name: Publicar animações na branch output
+      - name: Verificar arquivos gerados
+        run: ls -lah dist/
+
+      - name: Publicar Pac-Man
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
