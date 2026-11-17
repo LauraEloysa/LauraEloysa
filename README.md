@@ -1,14 +1,18 @@
 
 <!-- CABEÇALHO -->
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&color=003D66&section=header"/>
+  <img
+    width="100%"
+    src="https://capsule-render.vercel.app/api?type=waving&color=003D66&height=120&section=header"
+    alt="Cabeçalho"
+  />
 </div>
 
 <!-- APRESENTAÇÃO -->
 <div align="center">
   <img
     src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=400&size=28&duration=4000&pause=1000&color=156B9A&center=true&vCenter=true&width=900&lines=Ol%C3%A1%2C+meu+nome+%C3%A9+Laura!;Tenho+17+anos;Sou+estudante+de+Inform%C3%A1tica;Sou+do+Brasil;Bem-vindo+ao+meu+perfil!"
-    alt="Apresentação"
+    alt="Apresentação animada"
   />
 </div>
 
@@ -32,90 +36,108 @@
 <!-- PROJETOS -->
 <h3>Projetos em destaque</h3>
 
+<br/>
+
 <p>
   <a href="https://github.com/LauraEloysa?tab=repositories&q=FarolFlow"><b>FarolFlow</b></a>
   — Plataforma de gerenciamento de eventos, equipes e tarefas.
 </p>
 
 <p>
-  <a href="https://github.com/LauraEloysa?tab=repositories&q=Robotica](https://github.com/Robotica-IFC/Documentacao-PI.git)"><b>RobóticaIFC</b></a>
+  <a href="https://github.com/LauraEloysa?tab=repositories&q=Robotica"><b>RobóticaIFC</b></a>
   — Plataforma educacional para o ensino de robótica.
 </p>
 
 <p>
-  <a href="https://github.com/LauraEloysa?tab=repositories&q=Cinemap](https://github.com/mariisbx/CineMap.git)"><b>Cinemap</b></a>
+  <a href="https://github.com/LauraEloysa?tab=repositories&q=Cinemap"><b>Cinemap</b></a>
   — Aplicação para explorar e organizar informações sobre filmes.
 </p>
 
 <br/>
+<br/>
 
+<!-- ESTATÍSTICAS -->
 <div align="center">
 
   <h2>Estatísticas do GitHub</h2>
 
-  <a href="https://github.com/LauraEloysa">
-    <img
-      height="165"
-      src="https://github-stats-extended.vercel.app/api?username=LauraEloysa&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&title_color=156B9A&icon_color=003D66&locale=pt-br"
-      alt="Estatísticas do GitHub"
-    />
-  </a>
+  
+  <table>
+    <tr>
+      <td align="center">
+        <img
+          src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LauraEloysa&theme=transparent"
+          height="165"
+          alt="Resumo do perfil"
+        />
+      </td>
+      <td align="center">
+        <img
+          src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=LauraEloysa&theme=transparent"
+          height="165"
+          alt="Estatísticas do GitHub"
+        />
+      </td>
+    </tr>
+  </table>
 
-  <a href="https://github.com/LauraEloysa?tab=repositories">
-    <img
-      height="165"
-      src="https://github-stats-extended.vercel.app/api/top-langs/?username=LauraEloysa&layout=compact&theme=transparent&hide_border=true&langs_count=8&title_color=156B9A&locale=pt-br"
-      alt="Linguagens mais utilizadas"
-    />
-  </a>
 
 </div>
 
 <br/>
-<br />
-
-<!-- SEQUÊNCIA DE CONTRIBUIÇÕES -->
-<div align="center">
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=LauraEloysa&theme=transparent&hide_border=true&ring=003D66&fire=156B9A&currStreakLabel=156B9A&sideLabels=156B9A&dates=8DC5E8&locale=pt_BR"
-    alt="Sequência de contribuições"
-  />
-</div>
-
 <br/>
 
-<br/>
-
-<!-- CONTATOS -->
-<h3 align="left">Entre em contato</h3>
+<!-- REDES SOCIAIS -->
+<h3>Entre em contato</h3>
 
 <div align="left">
 
-  <a href="https://www.instagram.com/lauraelo_/">
-    <img src="https://img.shields.io/badge/Instagram-003D66?style=for-the-badge&logo=instagram&logoColor=white" height="35" alt="Instagram"/>
+  <a href="https://www.instagram.com/lauraelo_/" target="_blank">
+    <img
+      src="https://img.shields.io/badge/Instagram-003D66?style=for-the-badge&logo=instagram&logoColor=white"
+      height="35"
+      alt="Instagram"
+    />
   </a>
 
-  <a href="https://www.linkedin.com/in/laura-eloysa-87996a2b8/">
-    <img src="https://img.shields.io/badge/LinkedIn-003D66?style=for-the-badge&logo=linkedin&logoColor=white" height="35" alt="LinkedIn"/>
+  <a href="https://www.linkedin.com/in/laura-eloysa-87996a2b8/" target="_blank">
+    <img
+      src="https://img.shields.io/badge/LinkedIn-003D66?style=for-the-badge&logo=linkedin&logoColor=white"
+      height="35"
+      alt="LinkedIn"
+    />
   </a>
 
   <a href="mailto:SEU_EMAIL@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-003D66?style=for-the-badge&logo=gmail&logoColor=white" height="35" alt="Gmail"/>
+    <img
+      src="https://img.shields.io/badge/Gmail-003D66?style=for-the-badge&logo=gmail&logoColor=white"
+      height="35"
+      alt="Gmail"
+    />
   </a>
 
 </div>
 
 <br/>
+<br/>
 
-<!-- CONTRIBUIÇÕES -->
+<!-- PAC-MAN -->
 <div align="center">
 
-  <h3>Minhas contribuições</h3>
-
-  <img
-    src="https://raw.githubusercontent.com/LauraEloysa/LauraEloysa/output/snake.svg"
-    alt="Animação das contribuições"
-  />
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/LauraEloysa/LauraEloysa/output/pacman-contribution-graph-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/LauraEloysa/LauraEloysa/output/pacman-contribution-graph.svg"
+    />
+    <img
+      alt="Pac-Man percorrendo minhas contribuições"
+      src="https://raw.githubusercontent.com/LauraEloysa/LauraEloysa/output/pacman-contribution-graph-dark.svg"
+    />
+  </picture>
 
 </div>
 
