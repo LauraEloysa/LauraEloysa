@@ -9,7 +9,7 @@
 
 <div align="center">
   <img
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=400&size=28&duration=4000&pause=1000&color=156B9A&center=true&vCenter=true&width=900&lines=Ol%C3%A1%2C+meu+nome+%C3%A9+Laura!;Tenho+17+anos;Sou+estudante+de+Inform%C3%A1tica;Sou+do+Brasil;Bem-vindo+ao+meu+perfil!"
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=400&size=28&duration=4000&pause=1000&color=156B9A&center=true&vCenter=true&width=900&lines=Ol%C3%A1%2C+meu+nome+%C3%A9+Laura!;Tenho+18+anos;Sou+estudante+de+Inform%C3%A1tica;Sou+do+Brasil;Bem-vindo+ao+meu+perfil!"
     alt="Apresentação animada"
   />
 </div>
@@ -35,7 +35,7 @@
 <br/>
 
 <p>
-  <a href="https://github.com/LauraEloysa?tab=repositories&q=FarolFlow"><b>FarolFlow</b></a>
+  <a href="https://github.com/IFC-Hackathon-2026/hackas-front.git"><b>FarolFlow</b></a>
   — Plataforma de gerenciamento de eventos, equipes e tarefas.
 </p>
 
