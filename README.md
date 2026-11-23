@@ -40,12 +40,12 @@
 </p>
 
 <p>
-  <a href="https://github.com/LauraEloysa?tab=repositories&q=Robotica"><b>RobóticaIFC</b></a>
+  <a href="https://github.com/Robotica-IFC/Frontend"><b>RobóticaIFC</b></a>
   — Plataforma educacional para o ensino de robótica.
 </p>
 
 <p>
-  <a href="https://github.com/LauraEloysa?tab=repositories&q=Cinemap"><b>Cinemap</b></a>
+  <a href="https://github.com/mariisbx/CineMap"><b>Cinemap</b></a>
   — Aplicação para explorar e organizar informações sobre filmes.
 </p>
 
